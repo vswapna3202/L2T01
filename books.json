@@ -1,0 +1,38 @@
+{
+    "books":[{
+            "title": "Harry Potter and the Philosopher's Stone",
+            "author": "J.K.Rowling",
+            "year": "1997",
+            "Genre": "Fiction"
+            },
+            {
+             "title": "Jurassic Park",
+             "author": "Michael Chricton",
+             "year": "1990",
+             "Genre": "Science Fiction"   
+            },
+            {
+                "title": "Coma",
+                "author": "Robin Cook",
+                "year": "1977",
+                "Genre": "Thriller"   
+            },
+            {
+                "title": "Macbeth",
+                "author": "William Shakespeare",
+                "year": "1623",
+                "Genre": "Shakespearean tragedy"   
+            },            
+            {
+                "title": "The Firm",
+                "author": "John Grisham",
+                "year": "1991",
+                "Genre": "Legal thriller"   
+            },
+            {
+                "title": "Game Theory: Understanding the mathematics of life",
+                "author": "Brian Clegg",
+                "year": "2003",
+                "Genre": "Non fiction"   
+            }]
+}
